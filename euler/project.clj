@@ -4,4 +4,4 @@
   :license {:name "The MIT License"
             :url "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.11.1"]]
-  :repl-options {:init-ns euler.core})
+  :plugins [[lein-cljfmt "0.9.0"]])
