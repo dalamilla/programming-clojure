@@ -3,5 +3,5 @@
   :url "https://projecteuler.net/"
   :license {:name "The MIT License"
             :url "http://opensource.org/licenses/MIT"}
-  :dependencies [[org.clojure/clojure "1.11.1"]]
-  :plugins [[lein-cljfmt "0.9.0"]])
+  :dependencies [[org.clojure/clojure "1.12.0"]]
+  :plugins [[dev.weavejester/lein-cljfmt "0.13.0"]])

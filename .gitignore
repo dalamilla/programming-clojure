@@ -12,3 +12,5 @@ checkouts
 .lein-failures
 .nrepl-port
 .cpcache/
+.lsp/.cache
+.clj-kondo/.cache
